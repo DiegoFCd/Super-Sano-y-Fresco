@@ -3,7 +3,14 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
 
-## Este proyecto 
+## 📌 Descripción del Proyecto
+Desarrollé un modelo de analisis robusto a partir de un dataset complejo y desestructurado sobre la venta de un Supermercado, aplicando técnicas avanzadas de **EDA (Análisis Exploratorio de Datos)** y **ETL (Extracción, Transformación y Carga)**. El resultado final permite generar insights accionables para la toma de decisiones objetivas en el ámbito empresarial.
+
+<p align="center">
+  <a href="https://postimg.cc/9RSp0Pdg" target="_blank">
+    <img src="https://i.postimg.cc/7hPQBmf4/sano-y-fresco-2.png" alt="Sano y Fresco" width="400">
+  </a>
+</p>        
 
 # Archivos grandes (no versionados)
 
