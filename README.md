@@ -4,7 +4,9 @@
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
 
 ## 📌 Descripción del Proyecto
-Desarrollé un modelo de analisis robusto a partir de un dataset complejo y desestructurado sobre la venta de un Supermercado, aplicando técnicas avanzadas de **EDA (Análisis Exploratorio de Datos)** y **ETL (Extracción, Transformación y Carga)**. El resultado final permite generar insights accionables para la toma de decisiones objetivas en el ámbito empresarial.
+Desarrollé un modelo de analisis robusto a partir de un dataset complejo y desestructurado sobre la venta de un Supermercado, aplicando técnicas avanzadas de **EDA (Análisis Exploratorio de Datos)** y **ETL (Extracción, Transformación y Carga)**. El resultado final permite generar insights accionables para la toma de decisiones objetivas en el ámbito empresarial.<br>
+Se trabajo con análisis de KPIS más relevantes para la empresa, Market Basket Case (MBA), y ABC Analysis para obtener los insights buscados y trabajar sobre los mismos para aplicar en la práctica operativa de la compañia.
+Todo esto se pude apreciar en el Dashboard realizado con Power BI.
 
 <p align="center">
   <a href="https://postimg.cc/9RSp0Pdg" target="_blank">
